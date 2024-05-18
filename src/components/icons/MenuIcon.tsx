@@ -1,5 +1,5 @@
 import * as React from "react";
-const MenuIcon = (props) => (
+const MenuIcon = (props: any) => (
   <svg
     width="44"
     height="44"
